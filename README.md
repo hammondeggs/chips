@@ -1,5 +1,8 @@
 # chips	
 
+**THIS OSCILLATOR IS DEPRECATED, See Version 2.0 at https://github.com/hammondeggs/chipsv2 **
+
+
 A PWM, Triangle and Chiptune style synthesizer for your KORG Minilogue XD / Prologue Synthesizers!
 
 # As always, especially with the KORG user oscillators, these are to be used at your own risk!
