@@ -1,6 +1,12 @@
 # chips	
 
-**THIS OSCILLATOR IS DEPRECATED, See Version 2.0 at https://github.com/hammondeggs/chipsv2 **
+**This oscillator has been superseded by ChipsV2 - note that if you wish to keep the shape mod from affecting your multi oscillator this may still be for you. Please see Version 2.0 at https://github.com/hammondeggs/chipsv2 **
+
+### A quick word...
+I've been having a ton of fun creating these plugins, and it's thirsty work. If you like stuff like this and my other work, by all means feel free to contribute whatever you can to the fund to help fund the beer supply!
+
+This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
+
 
 
 A PWM, Triangle and Chiptune style synthesizer for your KORG Minilogue XD / Prologue Synthesizers!
